@@ -5,3 +5,5 @@
 - home
 - About
 - Contact us
+- log in
+- log out
